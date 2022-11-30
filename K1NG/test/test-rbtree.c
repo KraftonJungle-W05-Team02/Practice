@@ -1,5 +1,5 @@
 #include <assert.h>
-#include <rbtree.h>
+#include "../src/rbtree.h"
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
